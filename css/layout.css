@@ -1,0 +1,6 @@
+.latestReports {clear: both; padding: 5px 0; overflow: hidden; position: relative}
+.latestReports li {display: block; width: auto; min-width: 240px; float: left; text-align: right; margin-right: 10px; margin-top: 10px; padding: 15px 15px 5px; color: #FFF; -moz-border-radius:4px;-webkit-border-radius:4px;-khtml-border-radius:4px;border-radius:4px; height: 140px; position: relative; overflow: hidden; text-shadow: 0 -2px 2px rgba(0, 0, 0, 0.2);}
+.latestReports li strong {font-size: 24px; line-height: 36px; font-weight: 800; display: block}
+.latestReports li h2 small {font-size: 15px; letter-spacing: normal; font-weight: normal !important; text-align: right; position: relative; top: 2px; float: right; display: inline-block; color: #FFFFFF}
+.latestReports li em {display: inline-block; font-style: normal; color: #F5F5F5; line-height: 16px}
+.latestReports li i {display: block; position: absolute; left: 15px; top: 15px; font-size: 54px}
